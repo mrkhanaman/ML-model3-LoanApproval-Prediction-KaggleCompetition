@@ -80,4 +80,11 @@ This project is based on the Kaggle competition hosted at [Kaggle.com](https://w
 Let me know if you'd like to make further adjustments or add repository-specific links or badges!
 
 > **Note:** Explore the repository to access the code, cleaned datasets, and evaluation results.
-> 
+>
+> Training Dataset: tain.csv
+> Testing Dataset = test.csv
+>
+> Test Dataset after EDA: cleaned_test_data.csv
+> Training Dataset after EDA: cleaned_train_data.csv
+>
+> Predicted Dataset by models: submission.csv
